@@ -1,5 +1,15 @@
-# Adidas US Sales Performance Analytics Dashboard
+# 📊 Adidas US Sales Performance Analytics Dashboard
+> **Transforming Raw Sales Data into Interactive Business Intelligence**
 
+---
+
+## 📈 Executive Dashboard Overview
+
+| 🎯 Project Focus | 🛠️ Tech Stack | 💼 Role |
+| :--- | :--- | :--- |
+| Revenue & Profit Optimization | **Tableau Public** & **MS Excel** | Data Analyst |
+
+---
 ## 📊 Live & Interactive Preview
 * 🌐 **Live Dashboard:** [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/kunal.sarkar6752/viz/tableauproject_17801483948660/Dashboard1?publish=yes)
 * 📸 **Visual Preview:**
