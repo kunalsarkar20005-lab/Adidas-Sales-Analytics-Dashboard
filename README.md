@@ -1,4 +1,4 @@
-````md
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&pause=1000&color=E97627&center=true&vCenter=true&width=1000&lines=📊+Adidas+US+Sales+Performance+Analytics+Dashboard;🚀+Business+Intelligence+%7C+Tableau+%7C+Excel;📈+Revenue+Optimization+%26+Profitability+Analysis;💡+Transforming+Data+Into+Business+Insights" />
 </p>
