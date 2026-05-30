@@ -3,6 +3,7 @@
 ## 📊 Live & Interactive Preview
 * 🌐 **Live Dashboard:** [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/kunal.sarkar6752/viz/tableauproject_17801483948660/Dashboard1?publish=yes)
 * 📸 **Visual Preview:**
+
 ![Adidas Dashboard](dashboard.png.png)
 
 ---
@@ -49,6 +50,6 @@ This project delivers a comprehensive data analytics solution to evaluate **Adid
 
 ## 📁 Repository Structure
 * `README.md` - Executive summary and key business insights.
-* `dashboard.png` - Static high-resolution preview of the dashboard.
-* `Adidas_Sales_Data.xlsx` - Raw structured dataset utilized for analysis.
-* `tableau_project.twbx` - Fully packaged Tableau Workbook containing sheets, dashboards, and calculated fields.
+* `dashboard.png.png` - Static high-resolution preview of the dashboard.
+* `Adidas.xlsx` - Raw structured dataset utilized for analysis.
+* `tableau adidas.project.twb` - Tableau Workbook containing sheets and dashboards.
