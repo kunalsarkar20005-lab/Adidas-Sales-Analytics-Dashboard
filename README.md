@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=E97627&text=ADIDAS%20US%20SALES%20DASHBOARD&fontSize=45&fontAlignY=40&animation=fadeIn"/>
