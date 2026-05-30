@@ -3,7 +3,7 @@
 ## 📊 Live & Interactive Preview
 * 🌐 **Live Dashboard:** [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/kunal.sarkar6752/viz/tableauproject_17801483948660/Dashboard1?publish=yes)
 * 📸 **Visual Preview:**
-![Adidas Dashboard](dashboard.png)
+![Adidas Dashboard](dashboard.png.png)
 
 ---
 
